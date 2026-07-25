@@ -1,0 +1,19 @@
+# Prompt Engineering
+
+Prompt Engineering is the practice of communicating effectively with language models to achieve reliable outputs.
+
+This folder contains techniques, experiments, and prompt patterns for different use cases.
+
+## Topics
+
+- Zero-Shot Prompting
+- One-Shot Prompting
+- Few-Shot Prompting
+- Chain of Thought
+- ReAct
+- Role Prompting
+- Structured Prompts
+- Prompt Chaining
+- Prompt Evaluation
+
+Prompting is only one layer of AI Engineering, but understanding it is essential.
