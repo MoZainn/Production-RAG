@@ -23,15 +23,15 @@ Why prompts aren't enough
 How production AI systems are actually designed
 This repository is my attempt to document that learning process.
 
-My Philosophy
+## My Philosophy
 
 I don't want this repository to become another collection of copied notebooks.
 Everything here should satisfy at least one of these:
-I built it.
-I understood it.
-I experimented with it.
-I documented it.
-I can explain it.
+- I built it.
+- I understood it.
+- I experimented with it.
+- I documented it.
+- I can explain it.
 
 If I can't explain something clearly, I haven't learned it well enough.
 
