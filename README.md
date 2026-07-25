@@ -8,11 +8,14 @@ Understand AI beyond tutorials and build production-ready systems from scratch.
 This isn't a collection of random code snippets. It's a structured knowledge base containing everything I learn, build, break, fix, and improve throughout my AI Engineering journey.
 
 Why this repository?
+
 There are thousands of tutorials teaching you how to build an AI app.
 Very few teach you why it works.
-Even fewer explain what happens when it doesn't work.
+Even fewer explain what happens when it doesn't work:
+
 My goal is to bridge that gap.
 Instead of copying code, I want to understand:
+
 Why RAG works
 Why retrieval fails
 Why hallucinations happen
@@ -21,6 +24,7 @@ How production AI systems are actually designed
 This repository is my attempt to document that learning process.
 
 My Philosophy
+
 I don't want this repository to become another collection of copied notebooks.
 Everything here should satisfy at least one of these:
 I built it.
@@ -28,8 +32,11 @@ I understood it.
 I experimented with it.
 I documented it.
 I can explain it.
+
 If I can't explain something clearly, I haven't learned it well enough.
+
 Currently Learning
+
 Advanced RAG
 AI Agents
 LangGraph
