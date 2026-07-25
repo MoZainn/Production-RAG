@@ -56,5 +56,3 @@ This repository is primarily my personal learning journal, but suggestions, disc
 
 # If you find something helpful, consider giving the repository a ⭐.
 
-
-To document everything I've learned, I've build this repository where I'll be sharing my entire AI Engineering journey—from beginner concepts to production-ready RAG systems, notes, projects, and experiments.
