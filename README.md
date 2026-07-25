@@ -37,16 +37,17 @@ If I can't explain something clearly, I haven't learned it well enough.
 
 Currently Learning
 
-Advanced RAG
+## 📚 Currently Learning
 
-AI Agents
-LangGraph
-Evaluation Frameworks
-Production AI Systems
-LLM Optimization
-Retrieval Systems
-AI System Design
-Long-Term Goal
+- [ ] Advanced RAG
+- [ ] AI Agents
+- [ ] LangGraph
+- [ ] Evaluation Frameworks
+- [ ] Production AI Systems
+- [ ] LLM Optimization
+- [ ] Retrieval Systems
+- [ ] AI System Design
+
 To become an AI Engineer capable of designing, building, deploying, and maintaining production-ready AI systems—not just training models, but engineering complete intelligent applications that solve real-world problems.
 Contributions
 This repository is primarily my personal learning journal, but suggestions, discussions, and improvements are always welcome.
