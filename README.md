@@ -1,13 +1,13 @@
 # Production-RAG
-AI Engineering Journey 🚀
+#AI Engineering Journey 🚀
 Learning in public. Building in public. Growing one project at a time.
 
-Welcome! 👋
+#Welcome! 👋
 This repository documents my journey of becoming an AI Engineer. I started this journey in June 2026 with a simple goal:
 Understand AI beyond tutorials and build production-ready systems from scratch.
 This isn't a collection of random code snippets. It's a structured knowledge base containing everything I learn, build, break, fix, and improve throughout my AI Engineering journey.
 
-Why this repository?
+#Why this repository?
 
 There are thousands of tutorials teaching you how to build an AI app.
 Very few teach you why it works.
