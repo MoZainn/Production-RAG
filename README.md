@@ -38,6 +38,7 @@ If I can't explain something clearly, I haven't learned it well enough.
 Currently Learning
 
 Advanced RAG
+
 AI Agents
 LangGraph
 Evaluation Frameworks
