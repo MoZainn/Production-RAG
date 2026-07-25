@@ -1,0 +1,26 @@
+# Retrieval-Augmented Generation (RAG)
+
+This is one of the primary focuses of this repository.
+
+RAG is much more than embeddings and vector databases. It is the process of designing reliable retrieval systems that provide accurate context to language models.
+
+## Topics
+
+- Document Loading
+- Chunking Strategies
+- Embeddings
+- Vector Databases
+- Dense Retrieval
+- Sparse Retrieval
+- Hybrid Search
+- Query Reformulation
+- Query Expansion
+- Metadata Filtering
+- Cross-Encoder Reranking
+- Multi-Hop Retrieval
+- Context Compression
+- Hallucination Reduction
+- Evaluation
+- Production RAG
+
+Projects will gradually evolve from beginner implementations to production-ready retrieval systems.
