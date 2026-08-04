@@ -1,0 +1,9 @@
+# New Employee Onboarding Guide
+
+Welcome to the team. On your first day, IT will provision your laptop and email
+account. You will be added to the team chat and calendar invites for standups.
+
+Your manager will walk you through current projects during your first week.
+Please complete the mandatory security awareness training within your first
+five working days. HR will schedule a 30-minute check-in at the end of week one
+to answer any questions about benefits, payroll, and time-off requests.

@@ -1,0 +1,11 @@
+# IT Support FAQ
+
+Q: How do I reset my password?
+A: Use the self-service portal at login.company.internal or contact the helpdesk.
+
+Q: How do I request new equipment?
+A: Submit a ticket through the IT Support portal with your manager's approval.
+
+Q: Who do I contact for VPN issues?
+A: The general helpdesk handles standard VPN connectivity for all employees.
+Advanced infrastructure access issues are handled separately by the platform team.

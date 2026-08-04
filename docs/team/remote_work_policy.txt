@@ -1,0 +1,10 @@
+# Remote Work Policy
+
+All team members may work remotely up to three days per week with manager approval.
+Remote employees must be reachable during core hours, 10am to 4pm local time.
+Company laptops must be used for all work, and personal devices are not permitted
+for accessing internal tools. Employees working remotely should join daily standups
+over video call and keep their status updated in the team chat.
+
+For equipment requests (monitors, chairs, docking stations) while working remotely,
+submit a request through the IT Support portal.
