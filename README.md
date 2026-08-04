@@ -1,3 +1,7 @@
+
+
+Uploading Security-RAG (3).mp4…
+
 # Secure RAG Demo — Login-Gated, Access-Controlled Retrieval
 
 A working example of authentication + role-based access control (RBAC)
