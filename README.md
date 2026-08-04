@@ -1,6 +1,7 @@
 
 
-Uploading Security-RAG (3).mp4…
+https://github.com/user-attachments/assets/943dfe17-d828-40ed-9c66-4002c2d41f1c
+
 
 # Secure RAG Demo — Login-Gated, Access-Controlled Retrieval
 
