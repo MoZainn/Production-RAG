@@ -1,0 +1,10 @@
+# Board Meeting Minutes - Q2 Review (Confidential)
+
+Attendees discussed Q2 revenue performance, the upcoming Series B fundraising
+timeline, and a proposed restructuring of the platform engineering org.
+Remote work policy was also discussed at the leadership level: the board
+approved extending remote flexibility to five days per week for admin and
+leadership roles only, pending a formal policy update.
+
+Action items were assigned to department heads for follow-up before the
+next quarterly review.

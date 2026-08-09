@@ -1,0 +1,9 @@
+# Infrastructure Access Policy (Confidential)
+
+Remote administrative access to production infrastructure requires VPN
+connection through the hardened admin gateway, not the standard employee VPN.
+Multi-factor authentication is mandatory for all admin-level infrastructure
+access, and all sessions are logged and reviewed weekly by the security team.
+
+Only members of the platform-admin group may request elevated credentials.
+Credential rotation is enforced every 90 days.

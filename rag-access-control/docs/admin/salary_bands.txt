@@ -1,0 +1,9 @@
+# Salary Bands 2026 (Confidential)
+
+Engineering Level 1: 70,000 - 90,000
+Engineering Level 2: 90,000 - 120,000
+Engineering Level 3: 120,000 - 155,000
+Engineering Manager: 140,000 - 175,000
+
+This document is restricted to admin and HR leadership access only. Do not
+share compensation bands outside of approved budgeting and leveling discussions.
