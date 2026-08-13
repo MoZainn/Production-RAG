@@ -1,6 +1,7 @@
 import streamlit as st
 from auth import verify_login
 from rag_engine import SecureRAG
+from audit_log import log_query, get_recent_logs
 
 st.set_page_config(
     page_title="Acme Corp | Knowledge Portal",
@@ -101,9 +102,6 @@ div.block-container label p {
 
 DASHBOARD_CSS = """
 <style>
-/* Same white-card language as the login screen, just wider — this is
-   what makes the dashboard feel like one continuous product instead
-   of a styled login bolted onto a plain default Streamlit page. */
 div.block-container {
     max-width: 760px;
     margin: 50px auto 0 auto;
@@ -157,9 +155,6 @@ div.block-container {
     color: #0f172a;
 }
 
-/* Force visible black text everywhere inside the card, same fix as
-   the login screen — inputs, labels, and result text all read clearly
-   on the white background. */
 div.block-container input {
     color: #0f172a !important;
     background-color: #f8fafc !important;
@@ -263,6 +258,8 @@ def render_dashboard():
 
     if query.strip():
         results = engine.query(query, user["role"])
+        result_titles = [doc.title for _, doc in results]
+        log_query(user["email"], user["role"], query, result_titles)
 
         if not results:
             st.warning(
@@ -282,6 +279,18 @@ def render_dashboard():
         "your access level are never scored or surfaced. Log out and sign in as "
         "the other demo account to see the same question return different results."
     )
+
+    if user["role"] == "admin":
+        st.divider()
+        with st.expander("🔍 Audit Log (admin only)"):
+            logs = get_recent_logs(20)
+            if not logs:
+                st.caption("No queries logged yet.")
+            else:
+                for ts, email, role, q, count, titles in logs:
+                    st.markdown(f"**{ts}** — `{email}` ({role}) asked: \"{q}\" → {count} result(s)")
+                    if titles:
+                        st.caption(f"Returned: {titles}")
 
 
 if "user" not in st.session_state:
