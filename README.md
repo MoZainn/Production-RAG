@@ -64,4 +64,4 @@ Actively under construction and documented as it's built. Expect breaking change
 
 ## License
 
-Add your chosen license here (MIT recommended for open-source RAG tooling).
+Personal Portfolio Work - MIT LISENCED
