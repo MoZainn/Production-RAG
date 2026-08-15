@@ -1,0 +1,14 @@
+# WiFi Connectivity Troubleshooting Guide
+
+If you're having trouble connecting to WiFi in the office:
+
+1. Forget the network on your device and reconnect using the current
+   password (posted on the IT Support intranet page).
+2. Move closer to an access point — coverage is weakest in the east
+   stairwell and basement conference rooms.
+3. Restart your device's WiFi adapter via Settings.
+4. If multiple people report the same issue, it may be an access
+   point outage — check the #it-status Slack channel.
+
+Persistent WiFi issues can also affect other services that depend on
+a stable connection, including video calls and cloud file sync.

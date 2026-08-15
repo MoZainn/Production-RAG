@@ -1,0 +1,17 @@
+# How to Fix Email Sync Issues on Your Phone
+
+If your email isn't syncing on your mobile device, try these steps in order:
+
+1. Check your internet connection — sync requires an active WiFi or
+   cellular data connection.
+2. Open your mail app's account settings and confirm "Sync Mail" is
+   toggled on for the affected account.
+3. Remove the email account from your phone and re-add it — this
+   forces a fresh handshake with the mail server.
+4. Check whether your mailbox has hit its storage limit; a full
+   inbox can silently stop new mail from syncing.
+5. Update your mail app to the latest version — outdated apps can
+   lose compatibility with server-side sync protocols.
+
+If none of these resolve it, contact IT Support with your device
+model and mail app version.

@@ -1,0 +1,12 @@
+# Printer Setup Guide
+
+To add a network printer to your device:
+
+1. Go to Settings > Printers & Scanners > Add Printer.
+2. Select the printer matching your floor (e.g. "3F-Color-01").
+3. Install the driver if prompted — this happens automatically on
+   most managed company devices.
+4. Print a test page to confirm the connection.
+
+If the printer doesn't appear in the list, confirm you're connected
+to the office WiFi or docked at an ethernet port, then try again.

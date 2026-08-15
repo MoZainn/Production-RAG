@@ -1,0 +1,14 @@
+# VPN Setup Guide
+
+To connect to the company VPN from a personal device:
+
+1. Download the approved VPN client from the software portal.
+2. Log in using your company credentials and MFA code.
+3. Select the "Standard Access" profile unless instructed otherwise
+   by your manager.
+4. If the connection fails, confirm your device's clock is set to
+   automatic — VPN authentication can fail on devices with incorrect
+   system time.
+
+Contact IT Support if you need VPN access to internal tools not
+covered by the Standard Access profile.
